@@ -83,7 +83,10 @@ The main features of LPC2148 include the following.
 
 
 ## Output  :
- 
+
+ ![1](https://user-images.githubusercontent.com/119560261/228208870-d71b23b2-fc2c-4b77-bf4d-f775a023747f.jpeg)
+![2](https://user-images.githubusercontent.com/119560261/228208891-08f6efd5-2694-4758-b9f4-d125c2bdb00e.jpeg)
+
  
  
  
